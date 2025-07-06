@@ -28,13 +28,6 @@
 - **Validation:** Zod + React Hook Form
 - **Deployment:** Vercel
 
----
-
-## 🖥️ Screenshots
-
-| Homepage | Dashboard |
-|---------|-----------|
-| ![Home](https://i.imgur.com/TBD.png) | ![Dashboard](https://i.imgur.com/TBD.png) |
 
 ---
 
